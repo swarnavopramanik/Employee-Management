@@ -13,20 +13,11 @@ Related Topic:
 – React File Upload with Axios and Progress Bar to Rest API
 
 
+## Project Video 👇
 
-React + Node.js + Express + MySQL example Overview
-Video
-Technology
-Project Structure
-Implementation
-Setup React.js Project
-Import Bootstrap to React CRUD App
-Add React Router to React CRUD App
-Add Navbar to React CRUD App
-Initialize Axios for React CRUD HTTP Client
-Create Data Service
-Create React Components/Pages
-Run React CRUD App
-React + Node.js + Express + MySQL example Overview
+[Click here](https://vimeo.com/1009733304)
+
 
 ![Screenshot 2024-09-15 140640](https://github.com/user-attachments/assets/86a4e28a-4753-41ee-abc7-dadec214691d)
+
+
